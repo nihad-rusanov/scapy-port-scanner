@@ -14,10 +14,4 @@ A lightweight TCP SYN port scanner built with [Scapy](https://scapy.net/). This 
 - **Scapy:** Install via pip.
 - **Root/Administrator privileges:** Required to send raw packets.
 
-## Installation
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/<yourusername>/scapy-port-scanner.git
-   cd scapy-port-scanner
