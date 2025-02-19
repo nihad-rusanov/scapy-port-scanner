@@ -25,9 +25,8 @@ This script uses [Scapy](https://scapy.net/) to perform a TCP SYN scan on a spec
 
 2. **Run the Script:**
    ```bash
-   sudo python3 tcp_syn_scanner.py
+   sudo py main.py
    ```
-   Replace `main.py` with the name of your script file.
 
 3. **Interpreting Results:**
    - **Open:** The port is accepting connections.
